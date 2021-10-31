@@ -5,8 +5,8 @@
 	<title>Exanthenon</title>
 	<style>
 		.kotak {
-			width: 50px;
-			height: 50px;
+			width: 60px;
+			height: 75px;
 			background-color: salmon;
 			text-align: center;
 			line-height: 50px;
